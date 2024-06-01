@@ -17,6 +17,13 @@ const Header = () => {
               <Link href="/Certify" legacyBehavior>
                 <a className="text-gray-500 hover:text-pink-700 sm:px-10">Certification</a>
               </Link>
+
+              <Link href="/Certify" legacyBehavior>
+                <a className="text-gray-500 hover:text-pink-700 sm:px-10">Connect</a>
+              </Link>
+              <Link href="/Certify" legacyBehavior>
+                <a className="text-gray-500 hover:text-pink-700 sm:px-10">Tech Stack</a>
+              </Link>
             </div>
           </div>
         </div>
