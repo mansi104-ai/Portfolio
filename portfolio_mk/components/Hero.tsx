@@ -22,7 +22,7 @@ const Hero = () => {
               
               <TextGenerateEffect 
               className='text-center text-[70px] md:text:3xl lg:text-5xl'
-              words = 'MANSI '/>
+              words = 'Mansi '/>
 
               <TextGenerateEffect 
               className='text-center text-[90px] md:text:3xl mb-4 lg:text-5xl'
