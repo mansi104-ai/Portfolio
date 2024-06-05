@@ -3,7 +3,7 @@ import { Inter } from "next/font/google";
 import "./globals.css";
 import { ThemeProvider } from "./provider";
 import React, { ReactNode } from "react"; // Import ReactNode from 'react'
-
+import Home from  './page';
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
@@ -23,9 +23,8 @@ export default function RootLayout({
           attribute="class"
           defaultTheme="dark"
           enableSystem
-          disableTransitionOnChange
-        >
-          {children}
+          disableTransitionOnChange       >
+          <Home />
         </ThemeProvider>
       </body>
     </html>
