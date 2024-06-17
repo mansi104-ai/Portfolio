@@ -29,7 +29,7 @@ const Hero = () => {
               words = 'I am an MLOps Engineer'/>
 
               <p className = 'text-center md:tracking-wider mb-4 text-sm md:text-base lg:text-lg mt-10px'>
-                 I like to build mesmerising machine models ranging  from computer vision to AI tools 🌐.My first goal is to challenge myself and second to improve with those challenges.🧑‍💻
+                 I like to build mesmerising Machine Learning Models ranging  from computer vision to AI tools 🌐.My first goal is to challenge myself and second to improve with those challenges.🧑‍💻
               </p>
 
               <Link href = "https://www.linkedin.com/in/mansi-kalra-b46608252">
